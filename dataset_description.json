@@ -1,0 +1,16 @@
+{
+    "Name": "Inner Speech",
+    "BIDSVersion": "1.4",
+    "License": " Creative Commons CC0",
+    "Authors": [
+        "Nieto Nicolás",
+        "Victoria Peterson",
+	"Hugo Rufiner",
+	"Juan Kamienkowski",
+        "Ruben Spies"
+    ],
+    "HowToAcknowledge": "",
+    "ReferencesAndLinks": [""],
+    "DatasetDOI": "",
+    "DatasetType": "raw"
+}
