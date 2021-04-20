@@ -1,16 +1,19 @@
 {
     "Name": "Inner Speech",
     "BIDSVersion": "1.4",
-    "License": " Creative Commons CC0",
+    "License": "CC0",
     "Authors": [
         "Nicolas Nieto",
         "Victoria Peterson",
-	"Hugo Rufiner",
-	"Juan Kamienkowski",
+        "Hugo Rufiner",
+        "Juan Kamienkowski",
         "Ruben Spies"
     ],
     "HowToAcknowledge": "",
-    "ReferencesAndLinks": ["https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1"],
+    "ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1"
+    ],
     "DatasetDOI": "",
-    "DatasetType": "raw"
+    "DatasetType": "raw",
+    "EthicsApprovals": []
 }
