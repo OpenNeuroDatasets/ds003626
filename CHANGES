@@ -1,3 +1,5 @@
+2.1.0 2021-11-25
+  - Corrected EEG files from sub 09 ses 01 and sub 10 ses 03
 2.0.0 2021-07-30
   - Several corrupted raw files fixed
 1.0.3 2021-06-02
