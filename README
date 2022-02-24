@@ -1,9 +1,9 @@
 Inner Speech Dataset.
 
-Author: Nicolas Nieto 
+Author: Nicolás Nieto 
 
-Code available at https://github.com/N-Nieto/Inner_Speech_Dataset
-Prepreint available at https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1
+Code available at: https://github.com/N-Nieto/Inner_Speech_Dataset
+Publication available at: https://www.nature.com/articles/s41597-022-01147-2
 
 Abstract:
 Surface electroencephalography is a standard and noninvasive way to measure electrical brain activity. Recent advances in artificial intelligence led to significant improvements in the automatic detection of brain patterns, allowing increasingly faster, more reliable and accessible Brain-Computer Interfaces.
