@@ -9,7 +9,7 @@
         "Juan Kamienkowski",
         "Ruben Spies"
     ],
-    "HowToAcknowledge": "@article{nieto2022thinking,\n  title={Thinking out loud, an open-access EEG-based BCI dataset for inner speech recognition},\n  author={Nieto, Nicol{\\'a}s and Peterson, Victoria and Rufiner, Hugo Leonardo and Kamienkowski, Juan Esteban and Spies, Ruben},\n  journal={Scientific Data},\n  volume={9},\n  number={1},\n  pages={1--17},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+    "HowToAcknowledge": "",
     "ReferencesAndLinks": [
         "https://www.biorxiv.org/content/10.1101/2021.04.19.440473v1"
     ],
